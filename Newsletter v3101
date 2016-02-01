@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<title>The Pursuit of Micro-Blogging Happyness</title>
+	</head>
+
+	<body bgcolor="#E3E3E3" style="padding-top:5; padding-bottom:5; padding-right:10; padding-left:10;">
+
+		<table>
+
+			<tr>
+			<td>
+
+			<!--header table-->
+			<table bgcolor="#2C74A3" width="98%" border="5" cellspacing="0" cellpadding="0" align="center">	
+
+					<tr> 
+							<td style="font-family:Trebuchet MS; font-size:13px; font-weight:bold"> <img src="http://www.logodust.com/img/logo1.png"></td>
+
+							<td style="font-family:Trebuchet MS; font-size:30px; font-weight:bold"> Finding happiness in Micro-Blogging	</td>
+
+					</tr>
+
+			</table>		
+
+			<!--body and aside container table-->
+			<table width="98%" border="10" cellspacing="0" cellpadding="0" align="center" style="font-family:Trebuchet MS; font-size:13px; font-weight:bold">
+				
+					<tr> 
+						<td>
+						<!--body table-->
+							<table width="70%" border="5" cellspacing="3" cellpadding="5" align="left" style="font-family:Trebuchet MS; font-size:13px; font-weight:bold">
+
+								<tr>	
+									<td style="font-family:Trebuchet MS; font-size:13px; font-weight:bold"> Main text section on the left, Aside on the right 
+									</td>
+								</tr>	
+									
+							</table>	
+
+						<!--aside able-->
+							<table width="30%" border="5" cellspacing="3" cellpadding="5" align="right" style="font-family:Trebuchet MS; font-size:13px; font-weight:bold">
+
+								<tr class="aside" id="blogs_links" align="left" style="font-family:Trebuchet MS; font-size:13px; font-weight:bold; color:#7E4AE3"> 
+									<td style="font-family:Trebuchet MS; font-size:13px; font-weight:bold"> Micro-blogging links 
+										<a href="http://www.huffingtonpost.com/maria-rodale/top-ten-micro-moments-of_b_237567.html" target="_blank" style="font-size: 11px; color: #7E4AE3; font-weight:bold;">The Pursuit of Happiness</a>
+										Micro-blogging links 
+										<a href="http://www.huffingtonpost.com/maria-rodale/top-ten-micro-moments-of_b_237567.html" target="_blank" style="font-size: 11px; color: #7E4AE3; font-weight:bold;">The Pursuit of Happiness</a>Micro-blogging links 
+										<a href="http://www.huffingtonpost.com/maria-rodale/top-ten-micro-moments-of_b_237567.html" target="_blank" style="font-size: 11px; color: #7E4AE3; font-weight:bold;">The Pursuit of Happiness</a>Micro-blogging links 
+										<a href="http://www.huffingtonpost.com/maria-rodale/top-ten-micro-moments-of_b_237567.html" target="_blank" style="font-size: 11px; color: #7E4AE3; font-weight:bold;">The Pursuit of Happiness</a>Micro-blogging links 
+										<a href="http://www.huffingtonpost.com/maria-rodale/top-ten-micro-moments-of_b_237567.html" target="_blank" style="font-size: 11px; color: #7E4AE3 font-weight:bold;">The Pursuit of Happiness</a>
+									</td>
+								</tr>
+					
+								<tr class="aside" id="social_links" align="right" style="font-family:Trebuchet MS; font-size:13px; font-weight:bold; color:#7E4AE3">		
+									<td style="font-family:Trebuchet MS; font-size:13px; font-weight:bold"> Social networks links
+										<a href="http://www.huffingtonpost.com/maria-rodale/top-ten-micro-moments-of_b_237567.html" target="_blank" style="font-size: 11px; color: #7E4AE3; font-weight:bold;">The Pursuit of Happiness</a>
+										Micro-blogging links 
+										<a href="http://www.huffingtonpost.com/maria-rodale/top-ten-micro-moments-of_b_237567.html" target="_blank" style="font-size: 11px; color: #7E4AE3; font-weight:bold;">The Pursuit of Happiness</a>Micro-blogging links 
+										<a href="http://www.huffingtonpost.com/maria-rodale/top-ten-micro-moments-of_b_237567.html" target="_blank" style="font-size: 11px; color: #7E4AE3; font-weight:bold;">The Pursuit of Happiness</a>Micro-blogging links 
+										<a href="http://www.huffingtonpost.com/maria-rodale/top-ten-micro-moments-of_b_237567.html" target="_blank" style="font-size: 11px; color: #7E4AE3; font-weight:bold;">The Pursuit of Happiness</a>Micro-blogging links 
+										<a href="http://www.huffingtonpost.com/maria-rodale/top-ten-micro-moments-of_b_237567.html" target="_blank" style="font-size: 11px; color: #7E4AE3 font-weight:bold;">The Pursuit of Happiness</a>
+									</td>
+								</tr>	
+
+							</table>
+
+						</td>				
+					</tr>					
+						
+			</table>	
+
+			<!--footer table-->
+			<table bgcolor="#2C74A3" width="98%" border="10" cellspacing="0" cellpadding="0" align="center">
+				
+					<tr> 
+						<td style="font-family:Trebuchet MS; font-size:13px; font-weight:bold"> Footer content is #forfun </td>
+					</tr>		
+				 
+			</table>	
+
+			</td>
+			</tr>
+
+		</table>	
+
+	</body>
+
+</html>
+
